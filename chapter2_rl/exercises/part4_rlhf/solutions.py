@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 from rich import print as rprint
 from rich.table import Table
-from eindex import eindex
+import eindex
 from dataclasses import dataclass
 import numpy as np
 import time
